@@ -22,9 +22,9 @@
 
 **Я Frontend-разработчик**
 
-В ИТ я около 4-х лет. После поступления на курсы по веб разработке устроилась работать тестировщиком программого обеспечения для дизайнеров. Участвовала в тестировании интерфейсов и новых фичей, описывала тесты. В течение года работы получила опыт взаимодействия с командой, вживую увидела флоу разработки приложения в компании. 
+В ИТ я около 4-х лет. После поступления на курсы по веб разработке получила опыт корпоративной работы в команде разработки программого обеспечения для дизайнеров. В течение года работы получила опыт взаимодействия с командой, вживую увидела флоу разработки приложения в компании.
 
-Сейчас я выпускница курса ["Web-разработчик+"](https://practicum.yandex.ru/web-plus/). Во время прохождения курса я написала несколько проектов на HTML, CSS и JavaScript, работала с адаптивной вёрсткой. Создала интерактивные приложения с Node.js на React, Redux и TypeScript.
+Сейчас я выпускница курса ["Web-разработчик+"](https://practicum.yandex.ru/web-plus/). Во время прохождения курса я написала несколько проектов на HTML, CSS и JavaScript, работала с адаптивной вёрсткой. Создала интерактивные приложения с React, Redux и TypeScript.
 
 <details>
   <summary style="cursor: pointer;">
@@ -75,17 +75,13 @@
 
 🧘🏻‍♀️ В свободное время коллекционирую кукол, вяжу крючком и занимаюсь йогой.
 
-Skills
----
+## Skills
+
 ![Static Badge](https://img.shields.io/badge/HTML-%23FFFFFF?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/css-%23FFFFFF?style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/javascript-%23FFFFFF?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&color=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&color=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&color=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&color=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/typescript-%23FFFFFF?style=for-the-badge&logo=typescript&logoColor=%2361DAFB)
-![Static Badge](https://img.shields.io/badge/node.js-%23FFFFFF?style=for-the-badge&logo=node.js&logoColor=%23339933)
 ![Static Badge](https://img.shields.io/badge/npm-%23FFFFFF?style=for-the-badge&logo=npm&logoColor=%23CB3837)
 ![Static Badge](https://img.shields.io/badge/yarn-%23FFFFFF?style=for-the-badge&logo=yarn&logoColor=%232C8EBB)
 ![Static Badge](https://img.shields.io/badge/react-%23FFFFFF?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=%23FFFFFF)
