@@ -18,56 +18,7 @@
 </style>
 --->
 
-# Hello my name is Anna! 🪼
-
-**I'm a Frontend Developer**
-
-<details>
-  <summary style="cursor: pointer;">
-    Click to view information about my projects or go to 
-    <a href="https://github.com/ann-wi#:~:text=Pinned,Loading">📌 Pinned</a>
-  </summary>
-      <ul style="list-style: none;">
-    <li>
-      <p style="font-size: 14px;">
-        <span style="font-size: 16px; font-weight: 600;">🚋 Путешествия по России</span> [
-        <a href="https://github.com/ann-wi/russian-travel"> 📂 Repository</a> 
-        | <a href="https://ann-wi.github.io/russian-travel/">🌐 Website</a> ]
-      </p>
-      <ul style="padding-bottom: 10px">
-        <li>Адаптивный интерфейс с использованием Flex, Grid и медиазапросов для обеспечения корректного отображения сайта на различных устройствах.</li>
-        <li>Методология БЭМ для улучшения структуры и поддержки кода.</li>
-        <details>
-          <summary style="margin: 10px 0; cursor: pointer;">Скриншоты</summary>
-          <div style="margin-top: 10px;">
-            <img src="screenshots/traveling.png" style="height: 300px; border-radius: 10px; box-shadow: 0 0 5px; margin: 5px;" alt="Хедер, главная картинка и заголовок">
-            <img src="screenshots/articles.png" style="height: 300px; border-radius: 10px; box-shadow: 0 0 5px; margin: 5px;" alt="Информационные статьи про памятные места">
-            <img src="screenshots/photos.png" style="height: 300px; border-radius: 10px; box-shadow: 0 0 5px; margin: 5px;" alt="Альбом с фото">
-          </div>
-        </details>
-      </ul>
-    </li>
-    <li>
-      <p style="font-size: 14px;">
-        <span style="font-size: 16px; font-weight: 600;">👽 Космическая бургерная 🍔</span> [
-        <a href="https://github.com/ann-wi/react-burger"> 📂 Repository</a> 
-        | <a href="https://ann-wi.github.io/react-burger/">🌐 Website</a> ]
-      </p>
-      <ul style="padding-bottom: 10px">
-        <li>Интерактивное веб-приложение для создания бургеров, управления профилем и отслеживания заказов в реальном времени с помощью WebSocket и REST API.</li>
-        <li>Redux и Middleware для эффективного управления состоянием.</li>
-        <li>React Router для удобной навигации и работы с заказами, а также react-intersection-observer и Drag-and-drop для улучшения опыта пользователя.</li>
-        <details>
-          <summary style="margin: 10px 0; cursor: pointer;">Скриншоты</summary>
-          <div style="margin-top: 10px;">
-            <img src="screenshots/feed.png" style="height: 300px; border-radius: 10px; box-shadow: 0 0 5px; margin: 5px;" alt="Лента заказов">
-            <img src="screenshots/project-presentation.png" style="height: 300px; border-radius: 10px; box-shadow: 0 0 5px; margin: 5px;" alt="Конструктор бургеров">
-          </div>
-        </details>      
-	    </ul>
-    </li>
-  </ul>
-</details>
+**Frontend Developer**
 
 ## Skills
 
